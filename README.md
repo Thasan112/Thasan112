@@ -1,7 +1,7 @@
 Hi there 👋, I'm Tarannum!
 
-[![Tarannum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
+[![Tarannum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)](https://github.com//Thasan112)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/Thasan112&layout=compact&theme=radical)](https://github.com//Thasan112)
 
 ## About Me
 
