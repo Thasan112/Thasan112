@@ -10,13 +10,16 @@ Hi there 👋, I'm Tarannum !
 ## Skills
 
 ### Programming Languages
-Python, C++
+Python, C++,SAS
 
 ### Data Analysis & Machine Learning
 Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, SQL, Excel, Power BI, Tableau
 
 ### Cloud  Skills
 Cloud Technologies (AWS, Azure)
+
+## Other Skills
+Figma , Adobe photoshop
 
 ## Connect with Me
 https://www.linkedin.com/in/tarannum-h/
