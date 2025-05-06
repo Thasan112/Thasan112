@@ -39,12 +39,6 @@ Hi there 👋, I'm Tarannum!
 - Figma (for UI/UX Design)
 - Adobe Photoshop (for visual design)
 
-
-## Connect with Me
-
-https://www.linkedin.com/in/tarannum-h/
-
-
 Excited to connect and contribute to meaningful data-driven solutions! 😊
 
 
