@@ -1,11 +1,10 @@
-Hi there 👋, I'm Tarannum !
+
+# Hi there 👋, I'm Tarannum !
 
 ## About Me
 🔭 I’m currently working on Machine Learning project
-
 🌱 I’m currently learning Deep Learning .
- 
- 👯 I’m looking to collaborate on Healthcare projects.
+  👯 I’m looking to collaborate on Healthcare projects.
 
 ## Skills
 
