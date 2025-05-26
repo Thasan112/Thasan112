@@ -35,9 +35,7 @@ Hi there 👋, I'm Tarannum!
 - AWS
 - Azure
 
-### Other Skills
-- Figma (for UI/UX Design)
-- Adobe Photoshop (for visual design)
+
 
 Excited to connect and contribute to meaningful data-driven solutions! 😊
 
