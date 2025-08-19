@@ -35,8 +35,9 @@ Hi there 👋, I'm Tarannum!
 - AWS
 - Azure
 
+### Passionate about cybersecurity
 
 
-Excited to connect and contribute to meaningful data-driven solutions! 😊
+Excited to connect and contribute to meaningful solutions! 😊
 
 
