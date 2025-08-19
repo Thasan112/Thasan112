@@ -7,8 +7,8 @@ Hi there 👋, I'm Tarannum!
 
 ## About Me
 
-- 🔭 Currently immersed in building impactful **Machine Learning projects**.
-- 🌱 Continuously expanding my knowledge in **Deep Learning**.
+- 🔭 Expanding skills in building impactful **Machine Learning projects**.
+- 🌱 Continuously expanding my knowledge in **Artificial Intelligence**.
 - 👯 Keen to **collaborate on innovative Healthcare-focused projects** leveraging data science.
 - 💬 Ask me about **Machine Learning workflows, data visualization techniques, and the potential of AI in healthcare**.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tarannum-h/).
@@ -36,7 +36,6 @@ Hi there 👋, I'm Tarannum!
 - Azure
 
 ### Passionate about cybersecurity
-
 
 Excited to connect and contribute to meaningful solutions! 😊
 
