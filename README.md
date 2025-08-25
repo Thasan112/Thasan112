@@ -30,12 +30,13 @@ Hi there 👋, I'm Tarannum!
 - Excel
 - Power BI
 - Tableau
+- Passionate about cybersecurity 
 
 ### Cloud Skills
 - AWS
 - Azure
 
-### Passionate about cybersecurity
+
 
 Excited to connect and contribute to meaningful solutions! 😊
 
