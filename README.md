@@ -26,17 +26,30 @@ Hi there 👋, I'm Tarannum!
 - Scikit-learn
 - TensorFlow
 - PyTorch
-- SQL
+- T-SQL
 - Excel
 - Power BI
 - Tableau
 - Passionate about cybersecurity 
 
 ### Cloud Skills
-- AWS
-- Azure
+   ## AWS CLoud Practioner
+    
+    EC2 Instances, VPC,Load Balancer, S3 Bucket,AWS Reshift
+  
+   ## Microsoft Azure Data fundamentals certified
 
+## Networking
 
+Firewall rules, OSI model, DNS,TCP protocol
+
+## Operating Systems
+
+Proficient in Linux ubuntu and Windows OS.
+
+## Virtualization
+
+Knowledgeable about virtualization technologies.
 
 Excited to connect and contribute to meaningful solutions! 😊
 
