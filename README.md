@@ -9,8 +9,9 @@ Hi there 👋, I'm Tarannum!
 
 - 🔭 Expanding skills in building impactful **Machine Learning projects**.
 - 🌱 Continuously expanding my knowledge in **Artificial Intelligence**.
-- 👯 Keen to **collaborate on innovative Healthcare-focused projects** leveraging data science.
+- 👯 Keen to **collaborate on innovative Healthcare-focused projects** leveraging Data science.
 - 💬 Ask me about **Machine Learning workflows, data visualization techniques, and the potential of AI in healthcare**.
+-  Passionate about CyberSecurity 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tarannum-h/).
 
 
