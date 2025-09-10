@@ -33,11 +33,11 @@ Hi there 👋, I'm Tarannum!
 - Passionate about cybersecurity 
 
 ### Cloud Skills
-   ## AWS CLoud Practioner
-    
-    EC2 Instances, VPC,Load Balancer, S3 Bucket,AWS Reshift
+
+## AWS Cloud Practioner
+   EC2 Instances, VPC,Load Balancer, S3 Bucket,AWS Reshift
   
-   ## Microsoft Azure Data fundamentals certified
+## Microsoft Azure Data fundamentals certified
 
 ## Networking
 
@@ -50,6 +50,7 @@ Proficient in Linux ubuntu and Windows OS.
 ## Virtualization
 
 Knowledgeable about virtualization technologies.
+
 
 Excited to connect and contribute to meaningful solutions! 😊
 
