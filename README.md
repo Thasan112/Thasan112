@@ -13,45 +13,51 @@ Hi there 👋, I'm Tarannum!
 - 💬 Ask me about **Machine Learning workflows, data visualization techniques, and the potential of AI in healthcare**.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tarannum-h/).
 
-## Skills
 
-### Programming Languages
-- Python
-- C++
-- SAS
+🚀 Skills & Technologies
+🧠 Programming Languages
 
-### Data Analysis & Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- T-SQL
-- Excel
-- Power BI
-- Tableau
-- Passionate about cybersecurity 
+Python
 
-### Cloud Skills
+C++
 
-## AWS Cloud Practioner
-   EC2 Instances, VPC,Load Balancer, S3 Bucket,AWS Reshift
-  
-## Microsoft Azure Data fundamentals certified
+SAS
 
-## Networking
+📊 Data Analysis & Machine Learning
 
-Firewall rules, OSI model, DNS,TCP protocol
+Data Libraries: Pandas, NumPy
 
-## Operating Systems
+ML Frameworks: Scikit-learn, TensorFlow, PyTorch
 
-Proficient in Linux ubuntu and Windows OS.
+Data Visualization: Excel, Power BI, Tableau
 
-## Virtualization
+Databases & Querying: T-SQL
 
-Knowledgeable about virtualization technologies.
+Other Interests: Passionate about cybersecurity and Data privacy
 
+☁️ Cloud Platforms
+🔹 AWS Certified Cloud Practitioner
 
-Excited to connect and contribute to meaningful solutions! 😊
+EC2, S3, VPC, Load Balancers, Redshift
 
+🔹 Microsoft Azure
 
+Azure Data Fundamentals Certified
+
+🌐 Networking
+
+OSI Model, DNS, TCP Protocol, Firewall Rules
+
+💻 Operating Systems
+
+Linux (Ubuntu) & Windows OS
+
+🖥️ Virtualization
+
+Working knowledge of virtualization technologies (e.g., VMs )
+
+📫 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or learn new technologies.
+
+Feel free to explore my repositories, or reach out if you'd like to connect!
