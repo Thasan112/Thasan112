@@ -14,7 +14,7 @@ Hi there 👋, I'm Tarannum!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tarannum-h/).
 
 
-🚀 Skills & Technologies
+## 🚀 Skills & Technologies
 🧠 Programming Languages
 
 Python
@@ -56,7 +56,7 @@ Linux (Ubuntu) & Windows OS
 
 Working knowledge of virtualization technologies (e.g., VMs )
 
-📫 Let's Connect!
+## 📫 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or learn new technologies.
 
