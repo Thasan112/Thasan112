@@ -45,6 +45,15 @@ T-SQL
 Passionate about **Cybersecurity** and **Data Privacy**
 
 
+## ☁️ Cloud Platforms
+
+**🔹 AWS – Certified Cloud Practitioner**  
+Key Services: EC2 • S3 • VPC • Load Balancers • Redshift
+
+**🔹 Microsoft Azure – Certified in Azure Data Fundamentals**
+
+
+
 ## 📫 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or learn new technologies.
