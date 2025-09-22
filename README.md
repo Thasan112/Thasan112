@@ -27,38 +27,23 @@ Hi there 👋, I'm Tarannum!
 
 
 
-📊 Data Analysis & Machine Learning
+## 📊 Data Analysis & Machine Learning
 
-Data Libraries: Pandas, NumPy
+**🔹 Data Libraries:**  
+Pandas • NumPy
 
-ML Frameworks: Scikit-learn, TensorFlow, PyTorch
+**🔹 Machine Learning Frameworks:**  
+Scikit-learn • TensorFlow • PyTorch
 
-Data Visualization: Excel, Power BI, Tableau
+**🔹 Data Visualization Tools:**  
+Excel • Power BI • Tableau
 
-Databases & Querying: T-SQL
+**🔹 Databases & Querying:**  
+T-SQL
 
-Other Interests: Passionate about cybersecurity and Data privacy
+**🔹 Other Interests:**  
+Passionate about **Cybersecurity** and **Data Privacy**
 
-☁️ Cloud Platforms
-🔹 AWS Certified Cloud Practitioner
-
-EC2, S3, VPC, Load Balancers, Redshift
-
-🔹 Microsoft Azure
-
-Azure Data Fundamentals Certified
-
-🌐 Networking
-
-OSI Model, DNS, TCP Protocol, Firewall Rules
-
-💻 Operating Systems
-
-Linux (Ubuntu) & Windows OS
-
-🖥️ Virtualization
-
-Working knowledge of virtualization technologies (e.g., VMs )
 
 ## 📫 Let's Connect!
 
