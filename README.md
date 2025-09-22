@@ -1,8 +1,13 @@
-Hi there 👋, I'm Tarannum!
 
+
+## Hi there 👋, I'm Tarannum!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Thasan112&color=blue&style=flat)
 
 [![Thasan112's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thasan112&show_icons=true&theme=radical)](https://github.com/Thasan112)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thasan112&layout=compact&theme=radical)](https://github.com/Thasan112)
+
 
 
 ## About Me
