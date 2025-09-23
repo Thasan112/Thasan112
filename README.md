@@ -55,17 +55,12 @@ T-SQL
 **🔹 Other Interests:**  
 Passionate about **Cybersecurity** and **Data Privacy**
 
-
-## ☁️ Cloud Platforms
-
 ## ☁️ Cloud Platforms
 
 | Platform | Certification | Key Services |
 |----------|---------------|---------------|
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | Certified Cloud Practitioner | EC2 • S3 • VPC • Load Balancers • Redshift |
 | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | Certified: Azure Data Fundamentals | Azure SQL • Azure Storage • Azure Data Factory • Azure Synapse |
-
-
 
 ## 📫 Let's Connect!
 
