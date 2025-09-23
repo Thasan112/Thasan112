@@ -22,19 +22,19 @@
 
 ## 🚀 Skills & Technologies
 
+
 ## 🧠 Programming Languages & Tools
 
 | Language / Tool | Description |
 |------------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Data processing,Machine Learning|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Automation |
-| ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | File  |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Online platform |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Data processing, Machine Learning |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | System-level automation for manufacturing |
+| ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | File handling and ETL scripting |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Web platform for MaxMin.com |
 | ![SAS](https://img.shields.io/badge/SAS-1A6EBB?style=for-the-badge&logo=sas&logoColor=white) | Statistical analysis and modeling |
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | Network Analysis |
-| ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | Multidimensional modeling and OLAP cubes |
-| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | Data warehouse & OLTP storage |
-
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | Server environment for BI tools |
+| ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | OLAP cubes & multidimensional modeling |
+| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | Data warehouse & transactional database |
 
 
 
