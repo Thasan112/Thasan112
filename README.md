@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Tarannum  
 
 ## 🚀 About Me  
-🔭 Expanding skills in building impactful **Machine Learning** projects  
-🌱 Continuously learning and exploring **Artificial Intelligence**  
-👯 Looking to collaborate on **Healthcare-focused AI projects**  
-💬 Ask me about: **ML workflows, data visualization, AI in healthcare**  
+🔭 Expanding my skills by building impactful **Machine Learning projects**  
+🌱 Continuously exploring advancements in **Artificial Intelligence**  
+👯 Open to collaborating on **Healthcare-focused AI initiatives**  
+💬 Ask me about **ML workflows, data visualization, and the role of AI in healthcare**  
 🔐 Passionate about **Cybersecurity**  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tarannum-h/)  
+  
+📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tarannum-h/)  
 
 ---
 
