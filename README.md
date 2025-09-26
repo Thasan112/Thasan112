@@ -22,6 +22,13 @@
 
 ## 🚀 Skills & Technologies
 
+## ☁️ Cloud Platforms
+
+| Platform | Certification | Key Services |
+|----------|---------------|---------------|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | Certified Cloud Practitioner | EC2 • S3 • VPC • Load Balancers • Redshift • Terraform  • AWS Bedrock  |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | Certified: Azure Data Fundamentals | Azure SQL • Azure Storage • Azure Data Factory • Azure Synapse |
+
 
 ## 🧠 Programming Languages & Tools
 
@@ -38,29 +45,32 @@
 
 
 
-## 📊 Data Analysis & Machine Learning
+# 💻 Tech Stack
 
-**🔹 Data Libraries:**  
-Pandas • NumPy
+### 🧑‍💻 Programming Languages & Scripting
+`Python`  `SAS` `SQL` `C++'
 
-**🔹 Machine Learning Frameworks:**  
-Scikit-learn • TensorFlow • PyTorch
+### 🧠 Generative AI & LLMs
+`LangChain`  `LangGraph`
 
-**🔹 Data Visualization Tools:**  
-Excel • Power BI • Tableau
+### ⚙️ Frameworks & Libraries
+`TensorFlow`  `Keras` `Scikit-learn` `SciPy` 
 
-**🔹 Databases & Querying:**  
-T-SQL
+### ☁️ Cloud & DevOps
+`Azure` `AWS` `MLflow` `Docker` `GitHub Actions`
 
-**🔹 Other Interests:**  
-Passionate about **Cybersecurity** and **Data Privacy**
+### 📊 Data & Visualization
+`Pandas` `NumPy` `Matplotlib` `Seaborn` 'POwer BI' 'Tableau'
 
-## ☁️ Cloud Platforms
+### 🗃️ Databases & ETL
+ `Databricks` `MySQL` `PostgreSQL`
 
-| Platform | Certification | Key Services |
-|----------|---------------|---------------|
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | Certified Cloud Practitioner | EC2 • S3 • VPC • Load Balancers • Redshift • Terraform |
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | Certified: Azure Data Fundamentals | Azure SQL • Azure Storage • Azure Data Factory • Azure Synapse |
+### 🧰 Tools & IDEs
+`VS Code` `Git` 
+
+### 🧪 Other
+ `MS Fabric` ,'splunk' , 'SIEM'
+
 
 ## 📫 Let's Connect!
 
