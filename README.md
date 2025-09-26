@@ -17,7 +17,7 @@
 - 👯 Keen to **collaborate on innovative Healthcare-focused projects** leveraging Data science.
 - 💬 Ask me about **Machine Learning workflows, data visualization techniques, and the potential of AI in healthcare**.
 -  Passionate about CyberSecurity 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tarannum-h/).
+- 📫 Connect with me on ** [LinkedIn](https://www.linkedin.com/in/tarannum-h/)**.
 
 
 ## 🚀 Skills & Technologies
