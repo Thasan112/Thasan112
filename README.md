@@ -11,10 +11,8 @@
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thasan112&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thasan112&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thasan112&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thasan112&theme=tokyonight" />
 
 ---
 
@@ -60,6 +58,8 @@
 
 ### 🧪 Other  
 - Splunk • SIEM  
+
+
 
 ---
 
