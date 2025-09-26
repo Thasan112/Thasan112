@@ -45,7 +45,7 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Web platform  |
 | ![SAS](https://img.shields.io/badge/SAS-1A6EBB?style=for-the-badge&logo=sas&logoColor=white) | Statistical analysis and modeling |
 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | Network analysis |
-| ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | OLAP cubes & multidimensional modeling |
+| ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | OLAP Data cubes & multidimensional modeling |
 | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | Data warehouse & transactional database |
 
 
@@ -67,7 +67,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 
@@ -92,7 +91,6 @@
 
 
 ### 🧪 Other  
-![MS Fabric](https://img.shields.io/badge/MS%20Fabric-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 ![SIEM](https://img.shields.io/badge/SIEM-5A5A5A?style=for-the-badge&logo=security&logoColor=white)  
 
