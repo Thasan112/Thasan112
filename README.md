@@ -5,7 +5,7 @@
 🌱 Continuously exploring advancements in **Artificial Intelligence**  
 👯 Open to collaborating on **Healthcare-focused AI initiatives**  
 💬 Ask me about **ML workflows, data visualization, and the role of AI in healthcare**  
-🔐 Enthusiast about **Cybersecurity**  
+🔐 Studying **Cybersecurity**  
   
 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tarannum-h/)  
 
