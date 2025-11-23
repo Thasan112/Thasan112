@@ -61,7 +61,7 @@
 - VS Code • Git  
 
 ### 🧪 Other  
-- Splunk • SIEM  
+ SIEM  | Ethical Hacking | Digital Forensics 
 
 
 
