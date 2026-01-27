@@ -60,7 +60,7 @@
 ### 🧰 Tools & IDEs  
 - VS Code • Git  
 
-### 🧪 Cybersecurity | <img src="https://tryhackme-badges.s3.amazonaws.com/tarannumhasan27.png" alt="Your Image Badge" />
+### 🧪 Cybersecurity | <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5444268" style='border:none;'></iframe>
 Cybersecurity Technician | Ethical Hacking | Digital Forensics 
  
 
