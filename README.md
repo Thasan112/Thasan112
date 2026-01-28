@@ -59,6 +59,8 @@
 
 ### 🧰 Tools & IDEs  
 - VS Code • Git  
+Google Colab
+
 
 ### 🧪 Cybersecurity |<img src="https://tryhackme-badges.s3.amazonaws.com/tarannumhasan27.png" alt="Your Image Badge" />
 Cybersecurity Technician | Ethical Hacking | Digital Forensics 
