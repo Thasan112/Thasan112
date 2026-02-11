@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Tarannum  
 
 ## 🚀 About Me  
-🔭 Expanding my skills by building impactful **Machine Learning projects**  
-🌱 Continuously exploring advancements in **Artificial Intelligence**  
+🌱 Continuously exploring  secured applications  in **Artificial Intelligence**  
 👯 Open to collaborating on **Healthcare-focused AI initiatives**  
 💬 Ask me about **ML workflows, data visualization, and the role of AI in healthcare**  
-🔐 Studying **Cybersecurity**  
+🔐 **Cybersecurity**  enthusiast
   
 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tarannum-h/)  
-
+Open for roles and opportunities!
 ---
 
 ## 📈 GitHub Stats  
