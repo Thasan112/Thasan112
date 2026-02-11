@@ -1,4 +1,4 @@
-c# Hi there 👋, I'm Tarannum  
+ Hi there 👋, I'm Tarannum  
 
 ## 🚀 About Me  
 🌱 Continuously exploring  secured applications  in **Artificial Intelligence**  
