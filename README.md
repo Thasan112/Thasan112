@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tarannum  
+c# Hi there 👋, I'm Tarannum  
 
 ## 🚀 About Me  
 🌱 Continuously exploring  secured applications  in **Artificial Intelligence**  
@@ -7,7 +7,8 @@
 🔐 **Cybersecurity**  enthusiast
   
 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tarannum-h/)  
-Open for roles and opportunities!
+ 
+ Open for roles and opportunities!
 ---
 
 ## 📈 GitHub Stats  
