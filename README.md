@@ -31,14 +31,14 @@
 ## 💻 Tech Stack  
 
 ### 🧠 Programming Languages & Tools  
-- Python 🐍 – Data processing, ML, Automation  
+- Python 🐍 – Data processing, ML , Automation  
 - C++ ⚡ – Automation  
 - PowerShell ⚙️ – File handling & ETL scripting  
 - HTML5 🌐 – Web platform  
 - SAS 📊 – Statistical analysis & modeling  
 - Ubuntu 🐧 – Network analysis  
 - SSAS 🔢 – OLAP cubes & multidimensional modeling  
-- SQL Server 💾 – Data warehousing & transactional databases  
+- MySQL Server 💾 – Data warehousing & transactional databases  
 
 ### 🤖 Generative AI & LLMs  
 - LangChain  
