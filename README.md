@@ -2,14 +2,13 @@
 
 ## 🚀 About Me  
 🌱 Continuously exploring  secured applications  in **Artificial Intelligence**  
-👯 Open to collaborating on **Healthcare-focused AI initiatives**  
 💬 Ask me about **ML workflows, data visualization, and the role of AI in healthcare**  
 🔐 **Cybersecurity**  enthusiast
   
 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tarannum-h/)  
  
  Open for roles and opportunities!
----
+
 
 ## 📈 GitHub Stats  
 <p align="center">
