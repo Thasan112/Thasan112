@@ -38,11 +38,11 @@
 - SAS 📊 – Statistical analysis & modeling  
 - Ubuntu 🐧 – Network analysis  
 - SSAS 🔢 – OLAP cubes & multidimensional modeling  
-- MySQL Server 💾 – Data warehousing & transactional databases  
+- MySQL Server 💾 – Data warehousing & transactional databases
+- Snowflake 
 
 ### 🤖 Generative AI & LLMs  
 - LangChain  
-- LangGraph  
 
 ### ⚙️ Frameworks & Libraries  
 - TensorFlow • Keras • Scikit-learn • SciPy  
@@ -54,16 +54,13 @@
 - Pandas • NumPy • Matplotlib • Seaborn  
 - Power BI • Tableau  
 
-### 🗃️ Databases & ETL  
-- Databricks • MySQL • PostgreSQL  
-
-### 🧰 Tools & IDEs  
+## 🧰 Tools & IDEs  
 - VS Code • Git  
 Google Colab
 
 
 ### 🧪 Cybersecurity |<img src="https://tryhackme-badges.s3.amazonaws.com/tarannumhasan27.png" alt="Your Image Badge" />
-Cybersecurity Technician | Ethical Hacking | Digital Forensics 
+Cybersecurity | Ethical Hacking | Digital Forensics | Splunk | Incident Managment 
  
 
 
