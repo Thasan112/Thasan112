@@ -73,12 +73,6 @@
 - **Core Focus:** Cybersecurity • Ethical Hacking • Digital Forensics • Incident Management
 - **SIEM & Monitoring:** Splunk
 
-<p align="left">
-  <a href="https://tryhackme.com/p/tarannumhasan27">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/tarannumhasan27.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
 ---
 
 ## 📈 GitHub Stats
