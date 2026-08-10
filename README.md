@@ -41,6 +41,7 @@
 - **Databases & Warehousing:** MySQL, Snowflake, SSAS (OLAP Cubes & Multidimensional Modeling)
 - **Analytics & OS:** SAS, Ubuntu Linux
 
+
 ### 🤖 Generative AI & ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -50,6 +51,7 @@
 - **GenAI / LLMs:** LangChain
 - **Frameworks & Libraries:** TensorFlow, Keras, Scikit-learn, SciPy
 
+
 ### ☁️ Cloud, MLOps & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -57,9 +59,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
+
 ### 📊 Data Processing & Visualization
 - **Data Engineering:** Pandas, NumPy
 - **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+
 
 ### 🧰 Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -77,9 +81,15 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thasan112&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Thasan112&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thasan112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Thasan112&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thasan112&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
 ---
