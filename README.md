@@ -14,14 +14,17 @@
 - 💬 **Ask me about:** Cloud Engineering, ML Workflows, and Data Analytics.
 - 💼 **Status:** Open for exciting full-time roles and collaborative opportunities!
 
+
 ---
 
-## ☁️ Cloud Platforms
+## ☁️ Cloud Platforms & Architecture
 
-| Platform | Certification | Key Services & Tools |
+| Platform | Certification | Core Architecture & Key Services |
 | :--- | :--- | :--- |
-| **AWS** | Certified Cloud Practitioner | EC2 • S3 • VPC • Load Balancers • Redshift • Terraform • AWS Bedrock |
-| **Azure** | Certified: Azure Data Fundamentals | Azure SQL • Azure Storage • Azure Data Factory • Azure Synapse |
+| **AWS** | Certified Cloud Practitioner | • **Compute & Net:** EC2, VPC, Load Balancers<br>• **Data & AI:** Amazon Redshift, AWS Bedrock<br>• **DevOps & IaC:** Terraform, GitHub Actions |
+| **Azure** | Certified: Azure Data Fundamentals | • **Data Stores:** Azure SQL, Azure Storage<br>• **Analytics:** Azure Data Factory, Azure Synapse<br>• **Operations:** PowerShell, Azure Resource Manager |
+
+---
 
 ---
 
