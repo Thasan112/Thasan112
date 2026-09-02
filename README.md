@@ -12,7 +12,6 @@
 
 - 🌱 **Continuous Learner:** Actively expanding expertise across **Cloud**  and **Data**.
 - 💬 **Ask me about:** Cloud Engineering, ML Workflows, and Data Analytics.
-- 🔐 **Cybersecurity Enthusiast:** Passionate about Ethical Hacking, Digital Forensics, and Incident Management.
 - 💼 **Status:** Open for exciting full-time roles and collaborative opportunities!
 
 ---
