@@ -1,13 +1,5 @@
 # Hi there, I'm Tarannum 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tarannum-h/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
-
-
 ---
 
 ## 🚀 About Me
