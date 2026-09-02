@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages & Data Tools
