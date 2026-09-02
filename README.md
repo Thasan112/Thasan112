@@ -17,13 +17,16 @@
 
 ---
 
+---
+
 ## ☁️ Cloud Platforms & Architecture
 
-| Platform | Certification | Core Architecture & Key Services |
+| Platform | Certification | Core Engineering Stack & Key Services |
 | :--- | :--- | :--- |
-| **AWS** | Certified Cloud Practitioner | • **Compute & Net:** EC2, VPC, Load Balancers<br>• **Data & AI:** Amazon Redshift, AWS Bedrock<br>• **DevOps & IaC:** Terraform, GitHub Actions |
-| **Azure** | Certified: Azure Data Fundamentals | • **Data Stores:** Azure SQL, Azure Storage<br>• **Analytics:** Azure Data Factory, Azure Synapse<br>• **Operations:** PowerShell, Azure Resource Manager |
+| **AWS** | Certified Cloud Practitioner | • **Compute & Net:** EC2, VPC, ALB/NLB, Auto Scaling<br>• **Containers & DevOps:** ECS, Terraform, GitHub Actions<br>• **Data & Emerging Tech:** Amazon Redshift, AWS Bedrock |
+| **Microsoft Azure** | Certified: Azure Data Fundamentals | • **Compute & Infra:** Azure VMs, Virtual Networks, ARM Templates<br>• **Data Engineering:** Azure SQL, Azure Storage (Data Lake), ADF<br>• **Automation:** PowerShell, Azure DevOps / Pipelines |
 
+---
 ---
 
 ## 💻 Tech Stack
