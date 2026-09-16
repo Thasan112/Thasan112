@@ -15,7 +15,7 @@
 | Platform | Certification | Core Engineering Stack & Key Services |
 | :--- | :--- | :--- |
 | **AWS** | Certified Cloud Practitioner | • **Compute & Net:** EC2, VPC, ALB/NLB, Auto Scaling<br>• **Containers & DevOps:** ECS,Lambda, Terraform, GitHub Actions<br>• **Data & Emerging Tech:** Amazon Redshift, AWS Bedrock |
-| **Microsoft Azure** | Certified: Azure Data Fundamentals | • **Compute & Infra:** Azure VMs, Virtual Networks, ARM Templates<br>• **Data Engineering:** Azure SQL, Azure Storage (Data Lake), ADF<br>• **Automation:** PowerShell, Azure DevOps / Pipelines |
+| **Microsoft Azure** | Certified: Azure Data Fundamentals | • **Compute & Infra:** Azure VMs, Virtual Networks, ARM Templates<br>• **Data Engineering:** Azure SQL, Azure Storage (Data Lake)• **Automation:** PowerShell, Azure DevOps / Pipelines |
 
 
 ---
