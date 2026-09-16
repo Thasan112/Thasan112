@@ -1,6 +1,6 @@
 # Hi there, I'm Tarannum 👋
 
-
+[![Credly Badges](https://img.shields.io/badge/Credly-Verified%20Badges-007A87?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tarannum-hasan/edit/badges/credly)
 
 ## 🚀 About Me
 
